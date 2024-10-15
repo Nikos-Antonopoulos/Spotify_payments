@@ -1,4 +1,4 @@
-# Results of script execution as of 7/10/2024
+# Results of script execution as of 15/10/2024
 
 Months subscribed to Spotify: 46 <br>
 <br>
