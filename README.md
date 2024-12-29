@@ -1,6 +1,6 @@
-# Results of script execution as of 15/10/2024
+# Results of script execution as of 29/12/2024
 
-Months subscribed to Spotify: 46 <br>
+Months subscribed to Spotify: 49 <br>
 <br>
 There was a price change on 1 of September 2023. <br>
 We have been paying based on the old spotify's price (2 euro/month) for: 33 months.<br>
