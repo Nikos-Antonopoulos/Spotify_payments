@@ -10,4 +10,4 @@ Spyrellis  owes -> 9.88€ <br>
 Konstantina  owes -> -0.12€ <br>
 Christopher  owes -> 0.88€ <br>
 Mazarakis  owes -> 16.88€ <br>
-Mo  owes -> 23.76€ <br>
+Mo  owes -> 0€ <br>
