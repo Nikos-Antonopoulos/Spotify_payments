@@ -1,13 +1,17 @@
-# Results of script execution as of 19/05/2025
+# Results of script execution as of 11/09/2025
 
-Months subscribed to Spotify: 54 <br>
+Months subscribed to Spotify: 57 <br>
 <br>
-There was a price change on 1 of September 2023. <br>
-We have been paying based on the old spotify's price (2€/month) for: 33 months.<br>
-We have been paying based on the new spotify's price (12.99€ => 2.16€/month/person) for: 21 months.<br>
+There was a price change on 1 of September 2023 and again on 1 of September 2025. <br>
+We have been paying based on the old Spotify price (2.00 €/month) for: 33 months.
+<br>
+We have been paying based on the mid Spotify price (2.16 €/month) for: 24 months.
+<br>
+We have been paying based on the new Spotify price (2.4983 €/month) for: 0 months.
+<br>
 
-Spyrellis  owes -> 16.36 <br>
-Konstantina  owes -> 6.36 <br>
-Christopher  owes -> 7.36 <br>
-Mazarakis  owes -> 5.36 <br>
-Mo  owes -> 6.48 <br>
+Spyrellis  owes -> 22.84<br>
+Konstantina  owes -> 12.84<br>
+Christopher  owes -> 13.84<br>
+Mazarakis  owes -> 11.84<br>
+Mo  owes -> 12.96<br>
