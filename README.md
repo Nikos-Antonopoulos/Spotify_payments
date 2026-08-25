@@ -11,7 +11,7 @@ We have been paying based on the new Spotify price (2.4983 €/month) for: 12 mo
 <br>
 
 Spyrellis  owes -> -2.18<br>
-Konstantina  owes -> 2.5<br>
+Konstantinos  owes -> 2.5<br>
 Christopher  owes -> -0.18<br>
 Mazarakis  owes -> 12.49 <br>
 Mo  owes -> 42.94 <br>
