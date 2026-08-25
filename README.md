@@ -1,4 +1,4 @@
-# Results of script execution as of 24/08/2026
+# Results of script execution as of 25/08/2026
 
 Months subscribed to Spotify: 69 <br>
 <br>
@@ -10,7 +10,7 @@ We have been paying based on the mid Spotify price (2.16 €/month) for: 24 mont
 We have been paying based on the new Spotify price (2.4983 €/month) for: 12 months.
 <br>
 
-Spyrellis  owes -> 52.82<br>
+Spyrellis  owes -> -2.18<br>
 Konstantina  owes -> 2.5<br>
 Christopher  owes -> -0.18<br>
 Mazarakis  owes -> 12.49 <br>
